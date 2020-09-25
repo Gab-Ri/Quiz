@@ -1,6 +1,6 @@
 var questions = [
     {
-         prompt: "What color are strawberries?\n(a) Red\n\ (b) Purple\n(c) Orange",
+         prompt: "What is the largest empire in the history?\n(a) British Empire\n\ (b) Mongol Empire\n(c) Russian Empire",
          answer: "a"
     },
     {
