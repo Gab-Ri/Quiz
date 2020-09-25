@@ -1,7 +1,7 @@
 var questions = [
     {
-          prompt: "What is the largest empire in the history?\n(a) British Empire\n\ (b) Mongol Empire\n(c) Russian Empire",
-          answer: "a"
+         prompt: "What is the largest empire in the history?\n(a) British Empire\n\ (b) Mongol Empire\n(c) Russian Empire",
+         answer: "a"
     },
     {
          prompt: "What is the smallest country in the world?\n(a) San Marino\n\ (b) Monaco\n(c) Vatican City",
