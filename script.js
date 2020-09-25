@@ -1,14 +1,14 @@
 var questions = [
     {
-          prompt: "What color are apples?\n(a) Red/Green\n\ (b) Purple\n(c) Orange",
+          prompt: "What color are strawberries?\n(a) Red\n\ (b) Purple\n(c) Orange",
           answer: "a"
     },
     {
-         prompt: "What color are Bananas?\n(a) Teal\n\ (b) Magenta\n(c) Yellow",
+         prompt: "What is the smallest country in the world?\n(a) San Marino\n\ (b) Monaco\n(c) Vatican City",
          answer: "c"
     },
     {
-         prompt: "What color are strawberries?\n(a) Yellow\n\ (b) Red\n(c) Blue",
+         prompt: "What is the highest mountain in the world?\n(a) Mount Everest\n\ (b) K2\n(c) Kangchenjunga",
          answer: "a"
     }
 ];
